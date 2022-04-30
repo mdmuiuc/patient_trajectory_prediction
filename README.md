@@ -1,3 +1,11 @@
+Below is the original README from the patient_trajectory_prediction published by the authors of:
+
+Zaghir, J., Rodrigues-Jr, J.F., Goeuriot, L. et al. Real-world Patient Trajectory Prediction from Clinical Notes Using Artificial Neural Networks and UMLS-Based Extraction of Concepts. _J Healthc Inform Res_ 5, 474–496 (2021). https://doi.org/10.1007/s41666-021-00100-z
+
+This repository was forked from https://github.com/JamilProg/patient_trajectory_prediction for the class CS 598 Deep Learning for Healthcare in Spring 2022 by {mdm12, lw18}@illinois.edu.
+
+---
+
 # Step 0 : Python environment
 - All of these scripts were ran with Python 3.7.
 - PyTorch version 1.5.0
