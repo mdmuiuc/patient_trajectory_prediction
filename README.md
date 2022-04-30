@@ -4,6 +4,19 @@ Zaghir, J., Rodrigues-Jr, J.F., Goeuriot, L. et al. Real-world Patient Trajector
 
 This repository was forked from https://github.com/JamilProg/patient_trajectory_prediction for the class CS 598 Deep Learning for Healthcare in Spring 2022 by {mdm12, lw18}@illinois.edu.
 
+## Results
+
+| Architecture                  | P@1       |
+| ----------------------------- | --------- |
+| FFN (CUI + CCS), original     |  0.778    |
+| FFN (CUI + CCS), reproduction |  0.739    |
+| BoW                           |  0.701    |
+| SDAE-BoW                      |  0.650    |
+| doc2vec                       |  0.681    |
+| \[doc2vec, SDAE-BoW\]         |  0.679    |
+| BoCUI                         |  0.710    |
+| SDAE-BoCUI                    |  0.665    |
+
 ---
 
 # Step 0 : Python environment
