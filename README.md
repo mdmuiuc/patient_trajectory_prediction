@@ -17,6 +17,10 @@ This repository was forked from https://github.com/JamilProg/patient_trajectory_
 | BoCUI                         |  0.710    |
 | SDAE-BoCUI                    |  0.665    |
 
+The data set used to train this model is MIMIC-III. To acquire access to the MIMIC-III data set, go to https://eicu-crd.mit.edu/gettingstarted/access/ and follow the steps to complete the required ethics training course and apply for access. Once the access is granted, the MIMIC-III data set may be accessed from [PhysioNet](https://physionet.org).
+
+In addition, access to the UMLS metathesaurus must be requested from the [National Library of Medicine](https://uts.nlm.nih.gov/uts/).
+
 ---
 
 # Step 0 : Python environment
