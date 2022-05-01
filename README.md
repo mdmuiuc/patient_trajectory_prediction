@@ -9,7 +9,7 @@ This repository was forked from https://github.com/JamilProg/patient_trajectory_
 | Architecture                  | P@1       |
 | ----------------------------- | --------- |
 | FFN (CUI + CCS), original     |  0.778    |
-| FFN (CUI + CCS), reproduction |  0.739    |
+| FFN (CUI + CCS), reproduction |  0.750    |
 | BoW                           |  0.701    |
 | SDAE-BoW                      |  0.650    |
 | doc2vec                       |  0.681    |
